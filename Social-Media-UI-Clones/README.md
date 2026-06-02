@@ -40,19 +40,22 @@ Every sub-folder is self-contained with its own clean structural layer (`index.h
 * **Modular Code Architecture:** Maintaining clean separation between the HTML structural layer and CSS styling files.
 
 ...
-## 📸 Visual Previews (Screenshots)
+### 📸 Visual Previews (Screenshots)
 
-### 1. Instagram Login UI Clone
-![Instagram Preview](images/instagram.png)
+1. **Instagram Login UI Clone**
+![Instagram Preview](./Images/instagram.png)
 
-### 2. Facebook Login UI Clone
-![Facebook Preview](images/facebook.png)
+2. **Facebook Login UI Clone**
+![Facebook Preview](./Images/facebook.png)
 
-### 3. X (Twitter) Login UI Clone
-![Twitter Preview](images/twitter.png)
+3. **X (Twitter) Login UI Clone**
+![Twitter Preview](./Images/twitter.png)
 
-### 4. Gmail Login UI Clone
-![Gmail Preview](images/gmail.png)
+4. **Gmail Login UI Clone**
+![Gmail Preview](./Images/gmail.png)
 
-### 5. WhatsApp Web Link UI Clone
-![WhatsApp Preview](images/whatsapp.png)
+5. **WhatsApp Web Link UI Clone**
+![WhatsApp Preview](./Images/whatsapp.png)
+
+
+
