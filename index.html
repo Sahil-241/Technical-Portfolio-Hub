@@ -3,18 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sahil Kumar - Portfolio Projects Hub</title>
+    <title>Sahil Kumar - Technical Portfolio Hub</title>
     <style>
-        body { font-family: Arial, sans-serif; text-align: center; background-color: #121212; color: white; padding: 50px; }
-        h1 { color: #007bff; }
-        .btn { display: inline-block; padding: 15px 30px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 20px; }
-        .btn:hover { background-color: #218838; }
+        body { font-family: 'Segoe UI', Arial, sans-serif; text-align: center; background-color: #121212; color: #e0e0e0; padding: 40px 20px; }
+        h1 { color: #007bff; margin-bottom: 10px; }
+        p { color: #a0a0a0; font-size: 1.1em; }
+        .container { max-width: 800px; margin: 40px auto; display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+        @media (max-width: 600px) { .container { grid-template-columns: 1fr; } }
+        .card { background-color: #1e1e1e; padding: 25px; border-radius: 8px; border: 1px solid #333; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
+        .card h3 { margin-top: 0; color: #ffffff; }
+        .card p { font-size: 0.95em; color: #b0b0b0; height: 45px; overflow: hidden; }
+        .btn { display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 0.9em; transition: 0.2s; margin-top: 10px; }
+        .btn:hover { background-color: #0056b3; }
+        .btn-secondary { background-color: #28a745; }
+        .btn-secondary:hover { background-color: #218838; }
     </style>
 </head>
 <body>
+
     <h1>Welcome to My Technical Projects Portfolio Hub</h1>
-    <p>Explore my frontend simulations, data analytics, and cybersecurity labs.</p>
-    <!-- Is niche wale path ko apne folder ke naam se match kar lena -->
-    <a href="./Social-Media-UI-Clones/" class="btn">View Live UI Clones Project</a>
+    <p>Explore my interactive labs spanning Data Analytics, Infrastructure Security, and Software Engineering.</p>
+
+    <div class="container">
+        
+        <!-- Project 1: Data Analytics -->
+        <div class="card">
+            <h3>📊 Call Center Performance Analytics</h3>
+            <p>Advanced SQL data transformations and interactive Power BI dashboards for tracking operational velocity and SLAs.</p>
+            <a href="https://github.com/Sahil-241/Portfolio-Projects/tree/main/Data-Analytics-Call-Center" target="_blank" class="btn">View Source & Dashboard</a>
+        </div>
+
+        <!-- Project 2: Cybersecurity (Wireshark) -->
+        <div class="card">
+            <h3>🔒 Network Traffic & Packet Analysis</h3>
+            <p>Live packet dissection using Wireshark to audit transport-layer protocols, verify payload encryption, and log anomalies.</p>
+            <a href="https://github.com/Sahil-241/Portfolio-Projects/tree/main/Wireshark-Network-Traffic-Analysis" target="_blank" class="btn">View Security Lab Details</a>
+        </div>
+
+        <!-- Project 3: Frontend / UI Clones -->
+        <div class="card">
+            <h3>🌐 Social Media Frontend UI Clones</h3>
+            <p>Pixel-perfect, responsive frontend layout simulations built purely with HTML5 and CSS3 to analyze web architecture.</p>
+            <a href="./Social-Media-UI-Clones/" class="btn btn-secondary">Launch Live Simulation</a>
+        </div>
+
+        <!-- Project 4: Software Logic (C++) -->
+        <div class="card">
+            <h3>🎮 Console-Based Logic & Games</h3>
+            <p>Algorithmic structure, memory management, and clean object-oriented logic architecture built using C++.</p>
+            <a href="https://github.com/Sahil-241/Portfolio-Projects/tree/main/C-Plus-Plus-Games" target="_blank" class="btn">View C++ Repositories</a>
+        </div>
+
+    </div>
+
 </body>
 </html>
