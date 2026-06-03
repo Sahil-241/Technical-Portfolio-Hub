@@ -55,8 +55,7 @@ Every sub-folder is self-contained with its own clean structural layer (`index.h
 ![Gmail Preview](./Images/gmail.png)
 
 5. **WhatsApp Web Link UI Clone**
-<img src="./Images/whatsapp.png" onerror="this.src='./Images/whatsapp.PNG'; this.onerror=function(){this.src='./Images/whatsapp.jpg';};" alt="WhatsApp Preview">
-
+![WhatsApp Preview](./Images/Whatsapp.png)
 
 
 
