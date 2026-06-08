@@ -36,7 +36,7 @@ Each project contains full source code, methodology, and technical documentation
 
 ## 📊 Data Analytics & Business Intelligence Projects
 
-### 1. Call Center Operations & Performance Analytics
+### 1. - [Call Center Operations & Performance Analytics](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Data-Analytics-Call-Center)
 * **Tools & Tech:** SQL, Microsoft Power BI, Advanced Excel
 * **Core Concepts:** Cleaned and analyzed comprehensive operations lifecycle data; engineered key KPI metrics including SLA compliance rates, abandon percentages, and behavioral performance via interactive dashboards.
 
