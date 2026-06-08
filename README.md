@@ -8,27 +8,27 @@ Each project contains full source code, methodology, and technical documentation
 
 ## 🛡️ Cybersecurity & Infrastructure Security Projects
 
-### 1. SSH Brute-Force Detection & Log Analysis Lab
+### 1.[SSH Brute-Force Detection & Log Analysis Lab](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/SSH-Brute-Force-Log-Analysis-Lab)
 * **Tools & Tech:** Linux system-d/journalctl, Cyberthreat Analysis, SSH Service Auditing, Kali Linux
 * **Core Concepts:** Simulated live brute-force attacks against target infrastructure; extracted and parsed structured authentication failures to analyze patterns, isolate source IPs, identify targeted accounts, and map indicators of compromise (IoCs) for failed credential management.
 
-### 2. Endpoint Activity Monitoring & Local Auditing Tool
+### 2. [Endpoint Activity Monitoring & Local Auditing Tool](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Endpoint-Activity-Monitor-Tool)
 * **Tools & Tech:** Python, Operating System APIs, Local Logging Systems
 * **Core Concepts:** Developed an automated background utility to capture, monitor, and log critical system tasks and active process indicators for administrative auditing and inside-threat compliance.
 
-### 3. Network Vulnerability Assessment & Asset Mapping
+### 3. [Network Vulnerability Assessment & Asset Mapping](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Network-Vulnerability-Scanner)
 * **Tools & Tech:** Nmap (Network Mapper), Bash Scripting, Network Port Scanning Utilities
 * **Core Concepts:** Target environment reconnaissance for host discovery; approached target targets to scan exposed network services, map accurate runtime configurations, and surface framework vulnerability correlations spanning a range of active devices.
 
-### 4. Network Traffic Sniffing & Deep Packet Analysis
+### 4. [Network Traffic Sniffing & Deep Packet Analysis](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Wireshark-Network-Traffic-Analysis)
 * **Tools & Tech:** Wireshark, Packet Dissection, Network Protocol Filtering
 * **Core Concepts:** Captured live enterprise packet streams; applied granular dissection filters to audit encrypted vs unencrypted channel payloads, queries, and deep network-layer/transport-layer behaviors.
 
-### 5. Hardware-Based HID Keystroke Injection Lab
+### 5. [Hardware-Based HID Keystroke Injection Lab](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Cybersecurity-Hardware)
 * **Tools & Tech:** Tiny85 Digispark, Microcontroller Scripting, USB HID Simulation
 * **Core Concepts:** Programmed automated human-interface device hardware injection payloads to study physical attack vectors and configure physical security endpoints.
 
-### 6. Social Media User Interface Replication & Awareness Lab
+### 6. [Social Media User Interface Replication & Awareness Lab](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Social-Media-UI-Clones)
 * **Tools & Tech:** HTML5 Semantic Architecture, CSS3 Responsive Styling (Flexbox & Grid Alignment)
 * **Core Concepts:** Developed pixel-perfect, completely static frontend replicas of global platforms (Instagram, Facebook, Twitter, Gmail, WhatsApp Web) to dissect interface layout architecture, structural patterns, and visual cues frequently exploited in social engineering (phishing) vectors.
 
@@ -36,15 +36,15 @@ Each project contains full source code, methodology, and technical documentation
 
 ## 📊 Data Analytics & Business Intelligence Projects
 
-### 1. - [Call Center Operations & Performance Analytics](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Data-Analytics-Call-Center)
+### 1.  [Call Center Operations & Performance Analytics](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Data-Analytics-Call-Center)
 * **Tools & Tech:** SQL, Microsoft Power BI, Advanced Excel
 * **Core Concepts:** Cleaned and analyzed comprehensive operations lifecycle data; engineered key KPI metrics including SLA compliance rates, abandon percentages, and behavioral performance via interactive dashboards.
 
-### 2. E-Commerce Sales & Inventory Intelligence
+### 2. [E-Commerce Sales & Inventory Intelligence](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/Ecommerce-Sales-Analysis)
 * **Tools & Tech:** SQL Queries, Power BI Data Modeling, Relational Databases
 * **Core Concepts:** Developed an end-to-end data pipeline model to track performance velocity, evaluate product sales, and evaluate multi-quarter inventory trends.
 
-### 3. IT Corporate Compensation Framework Analysis
+### 3. [IT Corporate Compensation Framework Analysis](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/IT-Employee-Compensation-Analysis)
 * **Tools & Tech:** SQL Query Scripting, Data Transformation, Structural Analysis
 * **Core Concepts:** Formulated and queried structured workforce payroll datasets; evaluated multi-band data metrics to ensure high-precision compensation benchmarking, department allocations, and resource distribution.
 
@@ -52,6 +52,6 @@ Each project contains full source code, methodology, and technical documentation
 
 ## 👾 Core Systems Programming
 
-### 1. C++ Logic & Classic Game Engine Architecture
+### 1. [C++ Logic & Classic Game Engine Architecture](https://github.com/Sahil-241/Technical-Portfolio-Hub/tree/main/C-Plus-Plus-Games)
 * **Tools & Tech:** C++, Standard Template Library (STL)
 * **Core Concepts:** Built and compiled functional console-based game logic matrices (Tic-Tac-Toe, Number Guessing) showcasing clean object management, conditional flows, and algorithmic execution.
